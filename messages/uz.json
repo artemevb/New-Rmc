@@ -1,0 +1,522 @@
+{
+  "Header": {
+    "nav": {
+      "services": "Xizmatlar",
+      "about": "Biz Haqimizda",
+      "buildings": "Yangi uylar",
+      "blog": "Blog",
+      "contacts": "Kontaktlar",
+      "servicesOptions": {
+        "buy": "Sotib olish",
+        "rent": "Ijaraga berish",
+        "sell": "Sotish",
+        "evaluation": "Ko'chmas mulk baholash"
+      }
+    },
+    "menu": {
+      "closeMenu": "Menuni yopish",
+      "askQuestion": "Savol berish",
+      "changeLanguage": "Tilni o'zgartirish",
+      "languages": {
+        "en": "En",
+        "ru": "Ru",
+        "uz": "O'z"
+      }
+    }
+  },
+  "Main": {
+    "Banner": {
+      "button-more": "Batafsil",
+      "slides": {
+        "slide1": {
+          "title": "Yashash uchun Mukammal Joyni Toping",
+          "description": "Yangi kelajakning eshiklarini biz bilan oching"
+        },
+        "slide2": {
+          "title": "Dubay — Orzuingizdagi Uy",
+          "description": "Dubayda har doim orzu qilgan qulaylik va hashamat bilan mukammal uyni toping"
+        },
+        "slide3": {
+          "title": "Dunyoning Eng Dinamik Shahriidagi Uy",
+          "description": "Shahar hayotining markazida sizning qulayligingiz, tasalli va tinchligingiz"
+        },
+        "slide4": {
+          "title": "Toshkent — Sizning qulayligingiz uchun joy",
+          "description": "Toshkentning markazida o'zingizning ideal uyingizni toping"
+        },
+        "slide5": {
+          "title": "Toshkentda Orzuingizdagi Kvartira",
+          "description": "Har bir kvadrat metrda qulaylik va nafislik"
+        }
+      }
+    },
+    "Buildings": {
+      "title": "Yangi binolar",
+      "button-more": "Hammasini ko'rish"
+    },
+    "AboutUs": {
+      "title": "Kompaniya haqida",
+      "tabs": {
+        "rent": {
+          "label": "Ijaraga Berish",
+          "content": "Keng ko‘lamli obyektlar: Biz har qanday ehtiyojlarga javob beradigan kvartiralar va uylaridan tijorat joylariga qadar turli ijaraga olish variantlarini taklif etamiz.\nIshonchli ijarachilar: Barqaror daromadni ta'minlash va xavflarni kamaytirish uchun ijarachilarni diqqat bilan tekshirish va tanlash."
+        },
+        "buy": {
+          "label": "Sotib Olish - Sotish",
+          "content": "Biz eng qulay shartlarda ko‘chmas mulk obyektlarini sotib olamiz va sotamiz, tranzaktsiyalarning shaffofligi va huquqiy tozaligini ta'minlaymiz.\nTranzaktsiyaning barcha bosqichlarida, jumladan, huquqiy va moliyaviy maslahatlar bilan birga qo‘llab-quvvatlash."
+        },
+        "manage": {
+          "label": "Boshqaruv",
+          "content": "Har bir mijozga maksimal samaradorlik va g'amxo‘rlik bilan ko‘chmas mulkni boshqarish.\nBarcha bosqichlarda professional texnik xizmat va qo‘llab-quvvatlash."
+        }
+      }
+    },
+    "Blogs": {
+      "title": "Blog",
+      "button-more": "Barcha maqolalar"
+    },
+    "Slider": {
+      "Blog": {
+        "button-more": "Batafsil"
+      }
+    },
+    "Counter": {
+      "title": "Ipotekangizni hisoblang",
+      "price": "Mulk qiymati",
+      "one": "Boshlang'ich to'lov",
+      "two": "Yillar davomida muddat",
+      "three": "Foiz stavkasi",
+      "four": "Hisoblash",
+      "five": "Oylik to'lov",
+      "six": "Kredit summasi",
+      "seven": "Foiz stavkasi",
+      "eight": "Oxirgi to'lov sanasi",
+      "enter_cost": "Narxni kiriting",
+      "enter_down_payment": "Avans miqdorini kiriting",
+      "enter_term": "Muddatni kiriting",
+      "enter_rate": "Foiz miqdorini kiriting"
+    },
+    "Form": {
+      "validFullName": "To'g'ri",
+      "enterFullName": "To'liq ismingizni kiriting",
+      "validPhoneNumber": "To'g'ri",
+      "enterValidPhoneNumber": "To'g'ri telefon raqamini kiriting",
+      "validEmail": "To'g'ri",
+      "enterValidEmail": "To'g'ri emailni kiriting",
+      "haveQuestions": "Savollaringiz bormi?",
+      "contactUs": "Biz bilan bog'laning",
+      "fullName": "To'liq ismingiz",
+      "phoneNumber": "Telefon raqami",
+      "email": "E-mail",
+      "question": "Savolingiz",
+      "submit": "Yuborish",
+      "pleaseFillAllFields": "Iltimos, maydonni toʻldiring"
+    },
+    "Footer": {
+      "services": "Xizmatlar",
+      "buy": "Sotib olish",
+      "rent": "Ijaraga olish",
+      "sell": "Sotish",
+      "evaluate": "Baholash",
+      "real_estate": "Ko'chmas mulk",
+      "apartments": "Kvartiralar",
+      "new_buildings": "Yangi binolar",
+      "houses_and_land": "Ular va yerlar",
+      "commercial": "Tijorat",
+      "company": "Kompaniya",
+      "about_us": "Biz haqimizda",
+      "blog": "Blog",
+      "contacts": "Kontaktlar",
+      "contact_us": "Biz bilan bog'lanish",
+      "other": "Boshqa",
+      "mortgage_calculator": "Ipoteka kalkulyatori",
+      "dubai_investments": "Dubay ko'chmas mulkiga investitsiyalar",
+      "info": "2024 © RMC De Luxe real estate LLC. Huquqlar himoyalangan"
+    },
+    "WhyUs": {
+      "title": "Nega bizni tanlashadi",
+      "experienceTitle": "Tajriba va professionallik",
+      "experienceDescription": "Bizning mutaxassislarimiz ko'p yillik tajribaga ega bo'lib, ko'chmas mulk sohasida yuqori sifatli xizmatlarni ta'minlaydi",
+      "transparencyTitle": "Shaffoflik va ishonch",
+      "transparencyDescription": "Barcha operatsiyalarning to'liq shaffofligini ta'minlash va hisobotlar taqdim etish. Ish prinsiplarimiz halollik va ishonchga asoslangan, bu sharhlar bilan tasdiqlangan",
+      "serviceTitle": "Yuqori xizmat darajasi",
+      "serviceDescription": "Har doim sizga yordam berishga tayyormiz",
+      "individualTitle": "Individual yondashuv",
+      "individualDescription": "Biz har bir mijozning o'ziga xos ehtiyojlarini hisobga olgan holda shaxsiy yechimlarni ishlab chiqamiz",
+      "comprehensiveTitle": "Kompleks xizmat",
+      "comprehensiveDescription": "Ijaradan tortib, sotish, boshqaruv va ko'chmas mulk investitsiyalarini o'z ichiga olgan to'liq xizmatlar spektri.",
+      "imageAlt": "bino"
+    },
+    "Investition": {
+      "title": "Dubayda ko'chmas mulkka sarmoya kiritish",
+      "subtitle": "Dubaydagi ko'chmas mulk barqaror daromad va kapital o'sishi uchun ajoyib imkoniyatlarni taqdim etadi.\n\nTo'liq sarmoya tsikli: Bozor tahlili va mulk tanlashdan tortib sarmoyalarni boshqarish va ularni amalga oshirishgacha.\n\nMutaxassislarimiz sarmoyaviy jarayonning barcha bosqichlarida sizga yordam beradi, yuqori sifatli xizmat va ishonchlilikni ta'minlaydi.\n\nBizning xizmatlarimiz sizning sarmoyaviy mulkingizni boshqarishni o'z ichiga oladi, uning saqlanishi va barqaror daromadini ta'minlaydi. Biz boshqaruvning barcha jihatlarini o'z zimmamizga olamiz, shu jumladan ijarachilarni tanlash va tekshirish, texnik xizmat ko'rsatish, moliyaviy hisobot va yuridik yordam.",
+      "button": "Batafsil"
+    },
+    "Consalting": {
+      "title": "Biznesni ochish va ro'yxatdan o'tkazishda konsalting va yordam",
+      "subtitle": "Bizning yordamiz bilan Dubayda biznes ochish oddiy va tez jarayon! Biz to'liq qo'llab-quvvatlashni taklif etamiz: kompaniya shaklini tanlashdan tortib ro'yxatdan o'tkazish va litsenziyalarni olishgacha. Har bir bosqichda mutaxassis yordami biznesingizning BAAda muvaffaqiyatli boshlanishini ta'minlaydi.",
+      "button": "Batafsil"
+    },
+    "Service": {
+      "title": "Ko'chmas mulkni boshqarish \nxizmatiga kiradigan narsalar",
+      "points": {
+        "tenantCheck": "Ijarachini tekshirish (kredit tarixi, tavsiyalar)",
+        "maintenance": "Muntazam texnik xizmat ko'rsatish",
+        "leaseContracts": "Ijaraga berish shartnomalarini tayyorlash va imzolash",
+        "repairs": "Ta'mirlash ishlarini tashkil qilish va bajarish",
+        "rentCollection": "Ijara haqini yig'ish",
+        "propertyControl": "Ko'chmas mulkning holatini nazorat qilish",
+        "tenantRequests": "Ijarachilarning so'rovlari va shikoyatlarini qayta ishlash",
+        "tenantSelection": "Ishonchli ijarachilarni tanlash",
+        "leaseCompliance": "Ijara shartlariga rioya qilishni nazorat qilish"
+      }
+    }
+  },
+  "investmentsDubai": {
+    "Banner": {
+      "title": "Dubayda Ko'chmas Mulkga Sarmoya",
+      "subtitle": "Dubayda sarmoya qilish imkoniyatlari va afzalliklari haqida bilib oling"
+    },
+    "invest": {
+      "title": "Kelajakka Sarmoya Qiling: \nDubayda Ko'chmas Mulk",
+      "subtitle": "Dunyoning eng tez rivojlanayotgan shaharlardan biri bo'lmish Dubay, ko'chmas mulkka sarmoya qilish uchun katta imkoniyatlarni taqdim etadi. Foydali sarmoya muhiti, barqaror iqtisodiy o'sish va yuqori hayot darajasi bu shaharni butun dunyo bo'ylab sarmoyadorlar uchun jozibador qiladi",
+      "text-1": "Ko'chmas mulk daromadiga soliqlar yo'q",
+      "text-2": "Barqaror iqtisodiyot va o'sayotgan bozor",
+      "text-3": "O'sish va yuqori daromad olish imkoniyatlari",
+      "text-4": "Strategik joylashuv va infratuzilma"
+    },
+    "Types": {
+      "title": "Ko'chmas Mulk Turlari",
+      "subtitle-1": "Yashash majmualari",
+      "subtitle-2": "Savdo \nko'chmas mulk",
+      "subtitle-3": "Ofislar va Coworking Space'lar",
+      "subtitle-4": "Mehmonxonalar va mehmonxona \napartamentlari",
+      "subtitle-5": "Villar va Townhouse'lar"
+    },
+    "Scheme": {
+      "title": "Ko'chmas Mulk Sotib Olish Jarayoni",
+      "text-1": "Konsultatsiya va Mulk Tanlash",
+      "text-1-subtitle": "Biz mulklarni ko'rishlarni tashkil qilamiz va ularning afzalliklari va kamchiliklarini baholashingizga yordam beramiz",
+      "text-2": "Huquqiy Qo'llab-quvvatlash",
+      "text-2-subtitle": "Qonunchilikka rioya qilinishini ta'minlash va mijoz manfaatlarini himoya qilish",
+      "text-3": "Bitimni Yozib Olish",
+      "text-3-subtitle": "Barcha kerakli hujjatlarni tayyorlash va imzolash. To'lovlarni amalga oshirish",
+      "text-4": "Ko'chmas Mulkni Boshqarish Xizmatlari",
+      "text-4-subtitle": "Mutaxassislarimiz mulkingizni boshqarish bo'yicha to'liq xizmatlarni taqdim etadi"
+    },
+    "PopularReviews": {
+      "title": "Tez-tez So'raladigan Savollar",
+      "faq_question_1": "Chet elliklar uchun ko'chmas mulk sotib olish qoidalari",
+      "faq_answer_1": "Chet elliklar uchun ko'chmas mulk sotib olish qoidalari mamlakatga bog'liq. Odatda talablar va cheklovlar mavjud. Ko'pgina mamlakatlarda chet elliklar faqat mahalliy hukumatlarning ruxsati yoki maxsus litsenziya asosida ko'chmas mulk sotib olishlari mumkin. Cheklovlar ko'chmas mulk turiga tegishli bo'lishi mumkin: masalan, chet elliklar faqat yashash joylarini sotib olish huquqiga ega bo'lishi mumkin, savdo yoki yerlarni emas. Shuningdek, chet elliklar ma'lum bir huquqiy maqomga ega bo'lishlari kerak, masalan, rezidentlar yoki sarmoyadorlar. Ko'pincha moliyaviy qobiliyat va daromad manbalarini tasdiqlash talab qilinadi, shuningdek, sotib olishda qo'shimcha soliqlar yoki to'lovlar bo'lishi mumkin. Sotib olish jarayoni huquqiy va ma'muriy qadamlarni o'z ichiga olishi mumkin, masalan notarial tasdiqlash va mulk huquqlarini ro'yxatdan o'tkazish. Ba'zi mamlakatlarda chet elliklar ko'chmas mulk sotib olishlari mumkin bo'lgan hududlar yoki zonalar bo'yicha cheklovlar mavjud. Aniq ma'lumot uchun mahalliy huquqiy mutaxassislar yoki ko'chmas mulk agentliklariga murojaat qilish eng yaxshisi",
+      "faq_question_2": "Minimal sarmoya miqdori",
+      "faq_question_3": "Bitimni yozib olish tartibi",
+      "faq_question_4": "Texnik xizmat ko'rsatish va kommunal to'lovlar narxi"
+    }
+  },
+  "Contacts": {
+    "title-1": "Biz bilan bog'laning:",
+    "title-2": "Sizning ideal uyingiz atigi bir qadam narida",
+    "telephone": "Telefon",
+    "time-work": "Ish vaqti",
+    "work-day": "du-juma",
+    "addres": "Manzil",
+    "addres-2": "O‘zbekiston, Toshkent shahri, Chinobod ko‘chasi 2",
+    "email": "Elektron pochta"
+  },
+  "Partners": {
+    "title": "Hamkorlarimiz"
+  },
+  "About": {
+    "title": "RMC DE LUXE",
+    "subtitle": "Realtorlik agentligi Toshkentda",
+    "title-about": "Kompaniya Haqida",
+    "text-about-1": "PRMC De Luxe Toshkentda joylashgan, mulk baholash, ijaraga berish va sotish bo'yicha ixtisoslashgan ko'chmas mulk agentligi. Kompaniya jismoniy shaxslar va korporativ mijozlar uchun yuqori sifatli va kompleks ko'chmas mulk xizmatlarini taqdim etishga yo'naltirilgan.",
+    "text-about-2": "Mijozlarning ehtiyojlarini qondirish maqsadida, kompaniya professional yondashuv, shaxsiylashtirilgan xizmat va innovatsion yechimlarni ta'minlaydi.",
+    "Service": {
+      "title": "Xizmatlar",
+      "subtitle": "Biz mijozlarimiz uchun keng ko‘lamli xizmatlarni taklif etamiz",
+      "card-1": "Mulk Baholash",
+      "card1": {
+        "title": "Mulk Baholash",
+        "items": {
+          "0": {
+            "alt": "Check",
+            "text": "Mulk bozor qiymatini ekspert baholash"
+          },
+          "1": {
+            "alt": "Check",
+            "text": "Bozor tahlili va hisobot tayyorlash"
+          }
+        },
+        "imageAlt": "Mulk Baholash"
+      },
+      "card2": {
+        "title": "Mulkni Ijara Berish",
+        "items": {
+          "0": {
+            "alt": "Check",
+            "text": "Ijara uchun mulkni tayyorlash"
+          },
+          "1": {
+            "alt": "Check",
+            "text": "Ijara oluvchilarni topish"
+          },
+          "2": {
+            "alt": "Check",
+            "text": "Ijara munosabatlarini boshqarish va shartnomalarni yakunlash"
+          }
+        },
+        "imageAlt": "Mulkni Ijara Berish"
+      },
+      "card3": {
+        "title": "Ijara Uchun Mulk Qidirish",
+        "items": {
+          "0": {
+            "alt": "Check",
+            "text": "Ijara uchun mos mulklarni qidirish"
+          },
+          "1": {
+            "alt": "Check",
+            "text": "Ko‘rsatmalarni tashkil etish"
+          },
+          "2": {
+            "alt": "Check",
+            "text": "Ijara shartnomalarini tuzish"
+          }
+        },
+        "imageAlt": "Ijara Uchun Mulk Qidirish"
+      },
+      "card4": {
+        "title": "Mulk Sotib/Olish/Sotish",
+        "items": {
+          "0": {
+            "alt": "Check",
+            "text": "Mulk sotib olish va sotishni tashkil etish"
+          },
+          "1": {
+            "alt": "Check",
+            "text": "Bitimlarga huquqiy qo‘llab-quvvatlash"
+          },
+          "2": {
+            "alt": "Check",
+            "text": "Suhbatlarni olib borish"
+          },
+          "3": {
+            "alt": "Check",
+            "text": "Mulk baholash"
+          },
+          "4": {
+            "alt": "Check",
+            "text": "Marketing"
+          }
+        },
+        "imageAlt": "Mulk Sotib/Olish/Sotish"
+      }
+    }
+  },
+  "Modal": {
+    "full-name": "Ism",
+    "company-name": "Kompaniya Nomi",
+    "telephone-number": "Telefon Raqami",
+    "text-3": "Xizmatni Tanlang",
+    "message": "Xabar",
+    "send": "Yuborish",
+    "enter_full_name": "To'liq ismingizni kiriting",
+    "type-of-service": "Investitsiya Arizasi",
+    "enter_valid_phone_number": "Telefon raqamingizni kiriting",
+    "services-1": "Kompaniya Ro'yxatdan O'tkazish",
+    "services-2": "Konsalting",
+    "services-3": "Litsenziyalash",
+    "your_message_sent": "Savolingiz yuborildi!",
+    "your_message_has_been_sent": "Bizning menejerlarimiz yaqin vaqt ichida siz bilan bog'lanadi",
+    "close": "OK"
+  },
+  "ModalNewBuildings": {
+    "full-name": "Ism",
+    "company-name": "Kompaniya Nomi",
+    "telephone-number": "Telefon Raqami",
+    "text-3": "Xizmatni Tanlang",
+    "message": "Xabar",
+    "send": "Yuborish",
+    "enter_full_name": "To'liq ismingizni kiriting",
+    "type-of-service": "Taklif",
+    "enter_valid_phone_number": "Telefon raqamingizni kiriting",
+    "services-1": "Kompaniya Ro'yxatdan O'tkazish",
+    "services-2": "Konsalting",
+    "services-3": "Litsenziyalash",
+    "your_message_sent": "Savolingiz yuborildi!",
+    "your_message_has_been_sent": "Bizning menejerlarimiz yaqin vaqt ichida siz bilan bog'lanadi",
+    "close": "OK"
+  },
+  "Blog": {
+    "title": "Maqolalar",
+    "title-popular": "Mashhur maqolalar",
+    "itemsPerPage": "Sahifadagi narsalar soni",
+    "sort": "Saralash",
+    "filter-1": "Sana bo'yicha: yangilari birinchi",
+    "filter-2": "Sana bo'yicha: eskilari birinchi",
+    "filter-3": "Ommaboplik bo'yicha",
+    "Other": {
+      "title": "Boshqa maqolalar",
+      "button-more": "Barcha maqolalar"
+    },
+    "Share": {
+      "title": "Yangiliklarni ulashing",
+      "copy-link": "Havolani nusxalash",
+      "link_copied": "Havola nusxalandi"
+    }
+  },
+  "not-found": {
+    "text-1": "Voy... ",
+    "text-2": "Sahifa topilmadi",
+    "goHome": "Bosh sahifaga"
+  },
+  "NewBuildings": {
+    "InTashkent": {
+      "title-1": "Yangi Qurilishlar",
+      "title-2": "Toshkentda",
+      "subtitle": "Toshkentdagi yangi turar-joy majmualaridan o'zingizga mos kvartirani toping",
+      "text-1": "Zamonaviy arxitektura",
+      "subtitle-1": "Zamonaviy dizayn va arxitekturaga ega uy-joy",
+      "text-2": "Texnologiyalar va materiallar",
+      "subtitle-2": "Zamonaviy dizayn va arxitekturaga ega uy-joy",
+      "text-3": "Rejalashtirishni tanlash",
+      "subtitle-3": "Boshlang'ich bosqichlarda rejalashtirish va pardozlashni tanlash imkoniyati",
+      "text-4": "Sifat kafolati",
+      "subtitle-4": "Boshlang'ich bosqichlarda rejalashtirish va pardozlashni tanlash imkoniyati"
+    },
+    "InDubai": {
+      "title-1": "Yangi binolar",
+      "title-2": "Dubayda",
+      "subtitle": "Dubayning yangi turar-joy majmualarida o'zingiz uchun mukammal kvartirani toping",
+      "text-1": "Zamonaviy arxitektura",
+      "subtitle-1": "Zamonaviy dizayn va arxitekturaga ega uy-joy",
+      "text-2": "Texnologiyalar va materiallar",
+      "subtitle-2": "Zamonaviy dizayn va arxitekturaga ega uy-joy",
+      "text-3": "Rejalashtirishni tanlash",
+      "subtitle-3": "Dastlabki bosqichlarda rejalashtirish va pardozlashni tanlash imkoniyati",
+      "text-4": "Sifat kafolati",
+      "subtitle-4": "Dastlabki bosqichlarda rejalashtirish va pardozlashni tanlash imkoniyati"
+    },
+    "NewBuildingsMarket": {
+      "title": "Toshkentdagi Yangi Qurilish Bozori",
+      "text-1": "Toshkentda yangi qurilish bozori faol rivojlanmoqda va mahalliy hamda xorijiy investorlarni jalb qilmoqda. Toshkentda yangi turar-joy majmualari qurilmoqda, bu majmualar kichik kvartiralardan tortib to hashamatli apartamentlargacha turli xil variantlarni taklif etadi. Ushbu loyihalar ko'pincha fitnes markazlari, bolalar maydonchalari kabi zamonaviy qulayliklarni o'z ichiga oladi.",
+      "text-2": "Yangi qurilishlar narxlari tuman va uy-joy sinfiga qarab farq qiladi, bu esa bozorni investitsiyalar uchun jozibador qiladi. Yangi turar-joy majmualari ko'pincha rivojlangan infratuzilmani, jumladan, savdo markazlari, maktablar va tibbiy muassasalarni o'z ichiga oladi, bu esa bunday majmualarda yashashni qulayroq qiladi."
+    },
+    "NewBuildingsMarketDubai": {
+      "title": "Dubayda yangi binolar bozori",
+      "text-1": "Dubayda yangi binolar bozori jadal rivojlanmoqda va xaridorlarga zamonaviy ko‘chmas mulkning keng tanlovini taklif etadi. Bu yerda shahar va Fors ko‘rfaziga ajoyib manzaralar bilan hashamatli kvartiralar, shuningdek, osoyishta turar joy tumanlarida oilaviy rezidensiyalarni topish mumkin.",
+      "text-2": "Dubaydagi yangi binolar innovatsion texnologiyalar, hashamatli arxitektura va rivojlangan infratuzilma bilan ajralib turadi. Hukumat ko‘magining mavjudligi va to‘lov shartlarining moslashuvchanligi sababli, Dubayda ko‘chmas mulk sotib olish investorlar uchun eng jozibador variantga aylandi."
+    },
+    "Catalog": {
+      "title": "Yangi Qurilish Katalogi",
+      "button-more": "Ko'proq yuklash",
+      "filter-1": "Tuman",
+      "filter-2": "Narx",
+      "filter-3": "Uy-joy turi",
+      "filter-4": "Xonalar soni",
+      "filter-5": "Topsherish muddati",
+      "clear": "Hammasini tozalash",
+      "one": "Dan",
+      "two": "Gacha",
+      "all": "Hammasi"
+    }
+  },
+  "NewBuildingsMain": {
+    "title": "Yangi Qurilishlar",
+    "filter-1": "Tuman",
+    "filter-2": "Narx",
+    "filter-3": "Uy-joy turi",
+    "filter-4": "Xonalar soni",
+    "filter-5": "Topsherish muddati",
+    "clear": "Hammasini tozalash",
+    "one": "Dan",
+    "two": "Gacha",
+    "all": "Hammasi",
+    "see-pages": "Sahifada ko'rsatish",
+    "noResults": "Yo'qolgan",
+    "Form": {
+      "validFullName": "To'g'ri",
+      "enterFullName": "To'liq ismingizni kiriting",
+      "validPhoneNumber": "To'g'ri",
+      "enterValidPhoneNumber": "To'g'ri telefon raqamini kiriting",
+      "validEmail": "To'g'ri",
+      "enterValidEmail": "To'g'ri email kiriting",
+      "haveQuestions": "Mulkni baholang yoki uni ijaraga berishni boshlang",
+      "contactUs": "Mulkni baholatish bo'yicha professional yordam oling va uni ijaraga berib daromad olishni boshlang. Mutaxassislarimiz sizga har bir bosqichda yordam beradi.",
+      "fullName": "To'liq ismi",
+      "phoneNumber": "Telefon raqami",
+      "email": "E-mail",
+      "question": "Izoh",
+      "pleaseFillAllFields": "Maydonni to'ldiring",
+      "submit": "So'rov yuborish"
+    }
+  },
+  "Building_page_main": {
+    "from": "дан",
+    "button-more": "Ariza yuborish",
+    "button-call": "Qo'ng'iroq qilish",
+    "Gallery": {
+      "title": "Fotogalereya va video turlar"
+    },
+    "Conditions": {
+      "title": "Sotib olish shartlari",
+      "description": "Bizning agentligimizda ko'chmas mulk sotib olish jarayoni mijozlarimiz uchun maksimal qulaylik va shaffoflikni ta'minlash uchun ishlab chiqilgan",
+      "text-1": "Kerakli hujjatlar",
+      "text-1-subtitle": "Jismoniy shaxslarga: pasport, STIR",
+      "text-1-5-subtitle": "Yuridik shaxslarga: ta'sis hujjatlari, ishonchnoma",
+      "text-2": "Moliyaviy shartlar",
+      "text-2-subtitle": "To'lov usullari: naqd pul, bank o'tkazmasi, ipoteka",
+      "text-2-5-subtitle": "Qo'shimcha xarajatlar: soliqlar, agentlik komissiyasi, notarial xizmatlar",
+      "text-3": "Ipoteka va kreditlash",
+      "text-3-subtitle": "Ipoteka variantlari",
+      "text-3-5-subtitle": "Hamkor banklar",
+      "text-4": "Kafolatlar va majburiyatlar",
+      "text-4-subtitle": "Agentlikning majburiyatlari: hujjatlarni tekshirish, bitimni qo'llab-quvvatlash",
+      "text-4-5-subtitle": "Xaridor uchun kafolatlar: huquqiy tozalik, mulkni ro'yxatdan o'tkazishgacha qo'llab-quvvatlash",
+      "text-5": "Pulni qaytarish va shartnomani bekor qilish shartlari",
+      "text-5-subtitle": "Shartnomani bekor qilish tartibi",
+      "text-5-5-subtitle": "Pulni qaytarish shartlari (agar qo'llanilsa)"
+    },
+    "Infrastructure": {
+      "title": "Hudud infratuzilmasi",
+      "Markets": "Do'konlar",
+      "Machine": "Transport",
+      "Schools": "Maktablar"
+    },
+    "Reviews": {
+      "title": "Xaridorlarning sharhlari",
+      "read-more": "Batafsil o'qish"
+    },
+    "Other": {
+      "title": "Boshqa turar-joy majmualari"
+    },
+    "Layout": {
+      "title": "Rejalar va mavjud kvartiralar",
+      "book": "Kitob",
+      "floor": "Qavat",
+      "house": "Uy",
+      "entrance": "Kirish",
+      "rooms": "Xonalar",
+      "clear": "Hammasini qayta o'rnating",
+      "AllRooms": "Barcha xonalar",
+      "NumberOfRooms": "Xonalar soni",
+      "price": "Narx",
+      "from": "Dan",
+      "to": "Gacha",
+      "all_floor": "Barcha qavatlar"
+    },
+    "StickyMenu": {
+      "aboutComplex": "Majmua haqida",
+      "gallery": "Galereya",
+      "layouts": "Rejalar",
+      "purchaseTerms": "Sotib olish shartlari",
+      "infrastructure": "Infratuzilma"
+    }
+  },
+  "NotFound": {
+    "title": "Voy...",
+    "description": "Sahifa topilmadi",
+    "backHome": "Bosh sahifaga qaytish"
+  }
+}

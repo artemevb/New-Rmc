@@ -1,0 +1,522 @@
+{
+  "Header": {
+    "nav": {
+      "services": "Services",
+      "about": "About Us",
+      "buildings": "New buildings",
+      "blog": "Blog",
+      "contacts": "Contacts",
+      "servicesOptions": {
+        "buy": "Buy",
+        "rent": "Rent",
+        "sell": "Sell",
+        "evaluation": "Property Evaluation"
+      }
+    },
+    "menu": {
+      "closeMenu": "Close Menu",
+      "askQuestion": "Ask a Question",
+      "changeLanguage": "Change Language",
+      "languages": {
+        "en": "En",
+        "ru": "Ru",
+        "uz": "O'z"
+      }
+    }
+  },
+  "Main": {
+    "Banner": {
+      "button-more": "More details",
+      "slides": {
+        "slide1": {
+          "title": "Find the Perfect Place to Live",
+          "description": "Open the doors to a new future with us"
+        },
+        "slide2": {
+          "title": "Dubai — The Home of Your Dreams",
+          "description": "Find the perfect home in Dubai with the comfort and luxury you've always dreamed of"
+        },
+        "slide3": {
+          "title": "Your Home in the World's Most Dynamic City",
+          "description": "Your coziness, comfort, and peace in the heart of city life"
+        },
+        "slide4": {
+          "title": "Tashkent — A Space for Your Comfort",
+          "description": "Find your ideal home in the very heart of Tashkent"
+        },
+        "slide5": {
+          "title": "Your Dream Apartment in Tashkent",
+          "description": "Comfort and convenience in every square meter"
+        }
+      }
+    },
+    "Buildings": {
+      "title": "New buildings",
+      "button-more": "See all"
+    },
+    "AboutUs": {
+      "title": "About the company",
+      "tabs": {
+        "rent": {
+          "label": "Rent",
+          "content": "Wide selection of properties: We offer a variety of rental options—from apartments and houses to commercial spaces—to meet any needs.\nReliable tenants: Conducting thorough screening and selection of tenants to ensure steady income and minimize risks."
+        },
+        "buy": {
+          "label": "Buy - Sell",
+          "content": "We buy and sell real estate properties under the most favorable conditions, ensuring transparency and legal cleanliness of transactions.\nSupport at all stages of the transaction, including legal and financial consultations."
+        },
+        "manage": {
+          "label": "Management",
+          "content": "Managing real estate with maximum efficiency and care for each client.\nProfessional maintenance and support at all stages."
+        }
+      }
+    },
+    "Blogs": {
+      "title": "Blog",
+      "button-more": "All articles"
+    },
+    "Slider": {
+      "Blog": {
+        "button-more": "More details"
+      }
+    },
+    "Counter": {
+      "title": "Calculate your mortgage",
+      "price": "Property value",
+      "one": "Down payment",
+      "two": "Term in years",
+      "three": "Rate",
+      "four": "Calculate",
+      "five": "Monthly payment",
+      "six": "Loan amount",
+      "seven": "Interest rate",
+      "eight": "Date of the last payment",
+      "enter_cost": "Enter the cost",
+      "enter_down_payment": "Enter the down payment amount",
+      "enter_term": "Enter the term",
+      "enter_rate": "Enter the rate amount"
+    },
+    "Form": {
+      "validFullName": "Correct",
+      "enterFullName": "Enter your full name",
+      "validPhoneNumber": "Correct",
+      "enterValidPhoneNumber": "Enter a valid phone number",
+      "validEmail": "Correct",
+      "enterValidEmail": "Enter a valid email",
+      "haveQuestions": "Have questions?",
+      "contactUs": "Contact us",
+      "fullName": "Full Name",
+      "phoneNumber": "Phone Number",
+      "email": "E-mail",
+      "question": "Your question",
+      "submit": "Submit",
+      "pleaseFillAllFields": "Please fill out the field"
+    },
+    "Footer": {
+      "services": "Services",
+      "buy": "Buy",
+      "rent": "Rent",
+      "sell": "Sell",
+      "evaluate": "Evaluate",
+      "real_estate": "Real Estate",
+      "apartments": "Apartments",
+      "new_buildings": "New Buildings",
+      "houses_and_land": "Houses and Land",
+      "commercial": "Commercial",
+      "company": "Company",
+      "about_us": "About Us",
+      "blog": "Blog",
+      "contacts": "Contacts",
+      "contact_us": "Contact Us",
+      "other": "Other",
+      "mortgage_calculator": "Mortgage Calculator",
+      "dubai_investments": "Dubai Real Estate Investments",
+      "info": "2024 © RMC De Luxe real estate LLC. All rights reserved"
+    },
+    "WhyUs": {
+      "title": "Why choose us",
+      "experienceTitle": "Experience and professionalism",
+      "experienceDescription": "Our specialists have many years of experience in various areas of real estate, ensuring high-quality services",
+      "transparencyTitle": "Transparency and trust",
+      "transparencyDescription": "Ensuring full transparency of all operations and providing reports. Work is based on principles of honesty and trust, as confirmed by reviews",
+      "serviceTitle": "High level of service",
+      "serviceDescription": "We are always available to assist you at any time",
+      "individualTitle": "Individual approach",
+      "individualDescription": "We develop personalized solutions, considering the unique needs of each client",
+      "comprehensiveTitle": "Comprehensive service",
+      "comprehensiveDescription": "A full range of services, including rent, buying and selling, management, and real estate investment.",
+      "imageAlt": "building"
+    },
+    "Investition": {
+      "title": "Investing in Real Estate in Dubai",
+      "subtitle": "Real estate in Dubai provides excellent opportunities for stable income and capital growth.\n\nFull investment cycle: From market analysis and property selection to investment management and realization.\n\nOur experts will assist you at all stages of the investment process, ensuring high-quality service and reliability.\n\nOur services include managing your investment property, ensuring its preservation and stable income. We handle all aspects of management, including tenant selection and verification, maintenance, financial reporting, and legal support.",
+      "button": "Learn More"
+    },
+    "Consalting": {
+      "title": "Consulting and Support for Business Formation and Registration",
+      "subtitle": "Starting a business in Dubai with our help is a simple and fast process! We offer full support: from choosing the company form to registration and obtaining licenses. Expert support at every stage to ensure a successful start for your business in the UAE.",
+      "button": "Learn More"
+    },
+    "Service": {
+      "title": "What’s included in property \nmanagement service",
+      "points": {
+        "tenantCheck": "Tenant screening (credit history, recommendations)",
+        "maintenance": "Regular maintenance",
+        "leaseContracts": "Preparation and signing of lease agreements",
+        "repairs": "Organization and execution of repairs",
+        "rentCollection": "Rent collection",
+        "propertyControl": "Monitoring property conditions",
+        "tenantRequests": "Handling tenant requests and complaints",
+        "tenantSelection": "Selection of reliable tenants",
+        "leaseCompliance": "Monitoring lease compliance"
+      }
+    }
+  },
+  "investmentsDubai": {
+    "Banner": {
+      "title": "Investments in Dubai Real Estate",
+      "subtitle": "Learn about the opportunities and advantages of investing in Dubai"
+    },
+    "invest": {
+      "title": "Invest in the Future: \nReal Estate in Dubai",
+      "subtitle": "Dubai, one of the world's fastest-growing cities, offers enormous opportunities for real estate investments. A favorable investment climate, sustainable economic growth, and a high standard of living make this city attractive to investors from around the world",
+      "text-1": "No taxes on real estate income",
+      "text-2": "Stable economy and growing market",
+      "text-3": "Growth and opportunities for high returns",
+      "text-4": "Strategic location and infrastructure"
+    },
+    "Types": {
+      "title": "Types of Real Estate",
+      "subtitle-1": "Residential Complexes",
+      "subtitle-2": "Commercial \nReal Estate",
+      "subtitle-3": "Offices and Coworking Spaces",
+      "subtitle-4": "Hotels and Hotel \nApartments",
+      "subtitle-5": "Villas and Townhouses"
+    },
+    "Scheme": {
+      "title": "Real Estate Purchase Process",
+      "text-1": "Consultation and Property Selection",
+      "text-1-subtitle": "We arrange property viewings and help you assess their advantages and disadvantages",
+      "text-2": "Legal Support",
+      "text-2-subtitle": "Ensuring compliance with legislation and protecting the client's interests",
+      "text-3": "Deal Execution",
+      "text-3-subtitle": "Preparation and signing of all necessary documents. Payment processing",
+      "text-4": "Property Management Services",
+      "text-4-subtitle": "Our specialists provide a full range of services to manage your property"
+    },
+    "PopularReviews": {
+      "title": "Frequently Asked Questions",
+      "faq_question_1": "Rules for foreigners buying real estate",
+      "faq_answer_1": "The rules for foreigners buying real estate depend on the country. Usually, there are requirements and restrictions. In many countries, foreigners can purchase real estate only with the permission of local authorities or under a special license. Restrictions may pertain to the type of real estate: for example, foreigners may have the right to purchase only residential properties, not commercial or land. Also, foreigners must have a certain legal status, such as residents or investors. Often, proof of financial capability and sources of income is required, and there may be additional taxes or fees upon purchase. The purchase process may involve legal and administrative steps, such as notarial certification and registration of ownership rights. In some countries, there are regional or zone restrictions where foreigners can acquire real estate. For accurate information, it's best to consult local legal specialists or real estate agencies",
+      "faq_question_2": "Minimum investment amount",
+      "faq_question_3": "Deal execution procedure",
+      "faq_question_4": "Maintenance costs and utility payments"
+    }
+  },
+  "Contacts": {
+    "title-1": "Contact us:",
+    "title-2": "Your perfect home is just one step away",
+    "telephone": "Phone",
+    "time-work": "Working Hours",
+    "work-day": "Mon-Fri",
+    "addres": "Address",
+    "addres-2": "Uzbekistan, Tashkent city, Chinabad street 2",
+    "email": "Email"
+  },
+  "Partners": {
+    "title": "Our Partners"
+  },
+  "About": {
+    "title": "RMC DE LUXE",
+    "subtitle": "Real estate agency in Tashkent",
+    "title-about": "About the Company",
+    "text-about-1": "PRMC De Luxe is a real estate agency in Tashkent, specializing in appraisal, rental, and sale of real estate. The company aims to provide high-quality and comprehensive real estate services for individuals and corporate clients.",
+    "text-about-2": "To meet the needs of clients, the company ensures a professional approach, personalized service, and innovative solutions.",
+    "Service": {
+      "title": "Services",
+      "subtitle": "We offer a wide range of services for our clients",
+      "card-1": "Property Appraisal",
+      "card1": {
+        "title": "Property Appraisal",
+        "items": {
+          "0": {
+            "alt": "Check",
+            "text": "Conducting expert evaluations of property market value"
+          },
+          "1": {
+            "alt": "Check",
+            "text": "Market analysis and report preparation"
+          }
+        },
+        "imageAlt": "Property Appraisal"
+      },
+      "card2": {
+        "title": "Property Rental",
+        "items": {
+          "0": {
+            "alt": "Check",
+            "text": "Preparing the property for rent"
+          },
+          "1": {
+            "alt": "Check",
+            "text": "Finding tenants"
+          },
+          "2": {
+            "alt": "Check",
+            "text": "Managing rental relationships and concluding contracts"
+          }
+        },
+        "imageAlt": "Property Rental"
+      },
+      "card3": {
+        "title": "Property Search for Rent",
+        "items": {
+          "0": {
+            "alt": "Check",
+            "text": "Searching for suitable rental properties"
+          },
+          "1": {
+            "alt": "Check",
+            "text": "Organizing viewings"
+          },
+          "2": {
+            "alt": "Check",
+            "text": "Handling lease agreements"
+          }
+        },
+        "imageAlt": "Property Search for Rent"
+      },
+      "card4": {
+        "title": "Buying/Selling Property",
+        "items": {
+          "0": {
+            "alt": "Check",
+            "text": "Organizing property purchases and sales"
+          },
+          "1": {
+            "alt": "Check",
+            "text": "Legal support for transactions"
+          },
+          "2": {
+            "alt": "Check",
+            "text": "Conducting negotiations"
+          },
+          "3": {
+            "alt": "Check",
+            "text": "Property evaluation"
+          },
+          "4": {
+            "alt": "Check",
+            "text": "Marketing"
+          }
+        },
+        "imageAlt": "Buying/Selling Property"
+      }
+    }
+  },
+  "Modal": {
+    "full-name": "Full Name",
+    "company-name": "Company Name",
+    "telephone-number": "Phone Number",
+    "text-3": "Choose a Service",
+    "message": "Message",
+    "send": "Send",
+    "enter_full_name": "Enter your full name",
+    "type-of-service": "Investment Application",
+    "enter_valid_phone_number": "Enter your phone number",
+    "services-1": "Company Registration",
+    "services-2": "Consulting",
+    "services-3": "Licensing",
+    "your_message_sent": "Question sent!",
+    "your_message_has_been_sent": "Our managers will contact you shortly",
+    "close": "OK"
+  },
+  "ModalNewBuildings": {
+    "full-name": "Full Name",
+    "company-name": "Company Name",
+    "telephone-number": "Phone Number",
+    "text-3": "Choose a Service",
+    "message": "Message",
+    "send": "Send",
+    "enter_full_name": "Enter your full name",
+    "type-of-service": "Application",
+    "enter_valid_phone_number": "Enter your phone number",
+    "services-1": "Company Registration",
+    "services-2": "Consulting",
+    "services-3": "Licensing",
+    "your_message_sent": "Question sent!",
+    "your_message_has_been_sent": "Our managers will contact you shortly",
+    "close": "OK"
+  },
+  "Blog": {
+    "title": "Articles",
+    "title-popular": "Popular articles",
+    "itemsPerPage": "Items per page",
+    "sort": "Sort",
+    "filter-1": "By date: newest first",
+    "filter-2": "By date: oldest first",
+    "filter-3": "By popularity",
+    "Other": {
+      "title": "Other articles",
+      "button-more": "All articles"
+    },
+    "Share": {
+      "title": "Share the news",
+      "copy-link": "Copy link",
+      "link_copied": "Link copied"
+    }
+  },
+  "not-found": {
+    "text-1": "Oops...",
+    "text-2": "Page not found",
+    "goHome": "Go to homepage"
+  },
+  "NewBuildings": {
+    "InTashkent": {
+      "title-1": "New Buildings",
+      "title-2": "in Tashkent",
+      "subtitle": "Find your perfect apartment in new residential complexes in Tashkent",
+      "text-1": "Modern architecture",
+      "subtitle-1": "Modern housing with up-to-date design and architecture",
+      "text-2": "Technology and materials",
+      "subtitle-2": "Modern housing with up-to-date design and architecture",
+      "text-3": "Choice of layouts",
+      "subtitle-3": "Ability to choose layouts and finishes at an early stage",
+      "text-4": "Quality assurance",
+      "subtitle-4": "Ability to choose layouts and finishes at an early stage"
+    },
+    "InDubai": {
+      "title-1": "New Buildings",
+      "title-2": "in Dubai",
+      "subtitle": "Find your perfect apartment in new residential complexes in Dubai",
+      "text-1": "Modern architecture",
+      "subtitle-1": "Modern housing with up-to-date design and architecture",
+      "text-2": "Technologies and materials",
+      "subtitle-2": "Modern housing with up-to-date design and architecture",
+      "text-3": "Choice of layouts",
+      "subtitle-3": "The ability to choose the layout and finishing at the early stages",
+      "text-4": "Quality assurance",
+      "subtitle-4": "The ability to choose the layout and finishing at the early stages"
+    },
+    "NewBuildingsMarket": {
+      "title": "New Buildings Market in Tashkent",
+      "text-1": "The new buildings market in Tashkent is actively developing and attracting both local and foreign investors. New residential complexes are being built in Tashkent, offering a variety of options, from small apartments to luxury penthouses. These projects often include modern amenities such as fitness centers and playgrounds.",
+      "text-2": "Prices for new buildings vary depending on the district and housing class, making the market attractive for investment. New residential complexes often include developed infrastructure, including shopping centers, schools, and medical facilities, making life in such complexes more convenient."
+    },
+    "NewBuildingsMarketDubai": {
+      "title": "New Buildings Market in Dubai",
+      "text-1": "The new buildings market in Dubai is rapidly developing and offers buyers a wide range of modern real estate. You can find both luxury apartments with stunning views of the city and the Persian Gulf, as well as cozy family residences in peaceful residential areas.",
+      "text-2": "New buildings in Dubai are distinguished by innovative technologies, luxurious architecture, and developed infrastructure. Thanks to government support and flexible payment conditions, purchasing real estate in Dubai has become the most attractive option for investors."
+    },
+    "Catalog": {
+      "title": "New Buildings Catalog",
+      "button-more": "Load more",
+      "filter-1": "District",
+      "filter-2": "Price",
+      "filter-3": "Type of housing",
+      "filter-4": "Number of rooms",
+      "filter-5": "Completion date",
+      "clear": "Clear all",
+      "one": "From",
+      "two": "To",
+      "all": "All"
+    }
+  },
+  "NewBuildingsMain": {
+    "title": "New Buildings",
+    "filter-1": "District",
+    "filter-2": "Price",
+    "filter-3": "Type of housing",
+    "filter-4": "Number of rooms",
+    "filter-5": "Completion date",
+    "clear": "Clear all",
+    "one": "From",
+    "two": "To",
+    "all": "All",
+    "see-pages": "Show per page",
+    "noResults": "Missing",
+    "Form": {
+      "validFullName": "Correct",
+      "enterFullName": "Enter full name",
+      "validPhoneNumber": "Correct",
+      "enterValidPhoneNumber": "Enter valid phone number",
+      "validEmail": "Correct",
+      "enterValidEmail": "Enter valid email",
+      "haveQuestions": "Rate or rent out your property with ease",
+      "contactUs": "Get a professional appraisal of your property and start earning by renting it out. Our experts will assist you every step of the way.",
+      "fullName": "Full Name",
+      "phoneNumber": "Phone Number",
+      "email": "Email",
+      "question": "Comment",
+      "pleaseFillAllFields": "Fill the field",
+      "submit": "Submit request"
+    }
+  },
+  "Building_page_main": {
+    "from": "from",
+    "button-more": "Submit an application",
+    "button-call": "Call",
+    "Gallery": {
+      "title": "Photo gallery and video tours"
+    },
+    "Conditions": {
+      "title": "Purchase conditions",
+      "description": "The process of purchasing real estate at our agency is designed to provide maximum convenience and transparency for our clients",
+      "text-1": "Required documents",
+      "text-1-subtitle": "For individuals: passport, taxpayer ID",
+      "text-1-5-subtitle": "For legal entities: founding documents, power of attorney",
+      "text-2": "Financial conditions",
+      "text-2-subtitle": "Payment methods: cash, bank transfer, mortgage",
+      "text-2-5-subtitle": "Additional costs: taxes, agency commission, notary services",
+      "text-3": "Mortgage and lending",
+      "text-3-subtitle": "Mortgage options",
+      "text-3-5-subtitle": "Partnering banks",
+      "text-4": "Guarantees and obligations",
+      "text-4-subtitle": "Agency obligations: document verification, transaction support",
+      "text-4-5-subtitle": "Guarantees for the buyer: legal purity of the transaction, support until property registration",
+      "text-5": "Return and termination conditions",
+      "text-5-subtitle": "Procedure for contract termination",
+      "text-5-5-subtitle": "Refund conditions (if applicable)"
+    },
+    "Infrastructure": {
+      "title": "District infrastructure",
+      "Markets": "Shops",
+      "Machine": "Transport",
+      "Schools": "Schools"
+    },
+    "Reviews": {
+      "title": "Customer reviews",
+      "read-more": "Read more"
+    },
+    "Other": {
+      "title": "Other residential complexes"
+    },
+    "Layout": {
+      "title": "Layouts and available apartments",
+      "book": "Book",
+      "floor": "Floor",
+      "house": "House",
+      "entrance": "Entrance",
+      "rooms": "Rooms",
+      "clear": "Reset everything",
+      "AllRooms": "All rooms",
+      "NumberOfRooms": "Number of rooms",
+      "price": "Price",
+      "from": "From",
+      "to": "To",
+      "all_floor": "All floors"
+    },
+    "StickyMenu": {
+      "aboutComplex": "About Complex",
+      "gallery": "Gallery",
+      "layouts": "Layouts",
+      "purchaseTerms": "Purchase Terms",
+      "infrastructure": "Infrastructure"
+    }
+  },
+  "NotFound": {
+    "title": "Oops...",
+    "description": "Page not found",
+    "backHome": "Back to home"
+  }
+}

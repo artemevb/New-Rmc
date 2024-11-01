@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.carousel-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    padding-top: 20px;
+}
+
+.lh-main {
+    line-height: 70px;
+}
+
+.lh {
+    line-height: normal;
+}
+
+.counter-shadow {
+    box-shadow: 0px 0px 30px 0px rgba(15, 17, 18, 0.05);
+}
+
+/* Скрыть полосы прокрутки для Chrome, Safari и Opera */
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+/* Скрыть полосы прокрутки для Firefox */
+.hide-scrollbar {
+    scrollbar-width: none;
+    /* Firefox */
+    -ms-overflow-style: none;
+    /* IE и Edge */
+}
+
+.new-card-main img {
+    height: 100%;
+    /* or set a specific height, e.g., 600px */
+    object-fit: cover;
+    /* This will ensure the image scales properly without stretching */
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+/* globals.css */
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+  }
+  

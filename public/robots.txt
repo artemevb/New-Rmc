@@ -1,0 +1,10 @@
+
+User-agent: *
+
+Disallow: /api/
+Disallow: /private/
+
+Allow: /
+
+
+Sitemap: https://rmcestate.uz/sitemap.xml
