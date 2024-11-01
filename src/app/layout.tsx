@@ -45,7 +45,7 @@ const translations: Record<SupportedLocale, {
       title: 'RMC De Luxe - Риэлторское Агентство в ОАЭ',
       description: 'Профессиональные услуги по оценке, аренде и продаже недвижимости в ОАЭ.',
     },
-    structuredDataDescription: 'RMC De Luxe предоставляет услуги по оценке, аренде и продаже недвижимости в ОАЭ. Профессиональный подход для физических и корпоративных клиентов.',
+    structuredDataDescription: 'RMC De Luxe предоставляет услуги по оценке, аренде и продаже недвижимости в ОАЭ. Профессиональный подход для физических и корпоративных клиентов',
   },
   uz: {
     title: 'RMC De Luxe – BAA-da mulkni baholash, ijaraga berish va sotish',
