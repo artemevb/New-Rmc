@@ -57,7 +57,7 @@ const translations: Record<SupportedLocale, {
       description: 'RMC De Luxe tomonidan BAA-da mulkni baholash, ijaraga berish va sotish bo\'yicha professional xizmatlar. Jismoniy va korporativ mijozlar uchun ishonchli hamkor.',
     },
     twitter: {
-      title: 'RMC De Luxe - BAAdagi Rieltorlik Agentligi',
+      title: 'RMC De Luxe - BAAdagi Rieltorlik Agentligi ',
       description: 'BAA-da mulkni baholash, ijaraga berish va sotish bo\'yicha professional xizmatlar.',
     },
     structuredDataDescription: 'RMC De Luxe BAA-da mulkni baholash, ijaraga berish va sotish bo\'yicha xizmatlar ko\'rsatadi. Jismoniy va korporativ mijozlar uchun professional yondashuv.',
